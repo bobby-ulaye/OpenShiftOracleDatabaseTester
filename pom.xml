@@ -60,6 +60,10 @@
 			<id>maven-group</id>
 			<url>https://nexus.urcicd.sitelb.bpu.pccw.com/repository/maven-central/</url>
 		</repository>
+		<repository>
+			<id>com-oracle</id>
+			<url>https://maven.ceon.pl/artifactory/repo/</url>
+		</repository>
 	</repositories>
 
 </project>
